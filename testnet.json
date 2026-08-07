@@ -1,0 +1,12 @@
+{
+  "generated": "2026-08-07T16:16:37Z",
+  "nodes": 3,
+  "regions": ["Frankfurt", "Tokyo", "Los Angeles"],
+  "slot": 264,
+  "admitted": 5319,
+  "peers_heard": 2,
+  "uptime_seconds": 85475,
+  "rtt_ms": { "fra_nrt": 243.241, "fra_lax": 138.934, "nrt_lax": 98.879 },
+  "colocation_flags": 0,
+  "mempool": {"depth":0,"pushed":10560,"pulled":10560,"dropped":0,"drainer":"healthy","failovers":0}
+}
