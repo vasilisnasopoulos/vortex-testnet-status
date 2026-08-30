@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-30T18:11:15Z",
+  "generated": "2026-08-30T18:16:17Z",
   "nodes": 3,
   "regions": ["Frankfurt", "Tokyo", "Los Angeles"],
-  "slot": 184344,
-  "admitted": 5064819,
+  "slot": 184372,
+  "admitted": 5065939,
   "peers_heard": 2,
-  "uptime_seconds": 2079507,
-  "rtt_ms": { "fra_nrt": 242.783, "fra_lax": 139.064, "nrt_lax": 99.249 },
+  "uptime_seconds": 2079808,
+  "rtt_ms": { "fra_nrt": 242.782, "fra_lax": 139.064, "nrt_lax": 99.248 },
   "colocation_flags": 0,
-  "mempool": {"depth":0,"pushed":3658740,"pulled":3658740,"dropped":0,"drainer":"healthy","failovers":0}
+  "mempool": {"depth":0,"pushed":3659856,"pulled":3659856,"dropped":0,"drainer":"healthy","failovers":0}
 }
